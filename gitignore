@@ -1,0 +1,63 @@
+# Copyrighted Materials
+# DO NOT commit the actual CompTIA PDF
+CompTIA_Security*.pdf
+*.pdf
+
+# Personal Notes
+personal_notes/
+scratch/
+drafts/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-*
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+temp/
+tmp/
+
+# Python (if adding scripts later)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Node (if adding web tools later)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Cache
+.cache/
+*.cache
+
+# Private or sensitive info
+private/
+.env
+secrets/
+credentials/
+
+# Test files during development
+test_questions/
+experimental/
